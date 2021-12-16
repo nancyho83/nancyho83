@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nancyho83
-- 👀 I’m interested in data science, analysis, and engineering
+- 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning SQL and database management
 
 <!---
